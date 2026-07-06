@@ -123,7 +123,7 @@ This project is licensed under the MIT License.
 
 Gautam Purohit
 
-GitHub: https://github.com//gautam-purohit2006/CAR_PREDICTION_ML/edit/main/README.md
+GitHub: https://github.com//gautam-purohit2006/
 
 ---
 
